@@ -1,3 +1,4 @@
 env
 .vscode
 .ipynb_checkpoints
+auth.py
